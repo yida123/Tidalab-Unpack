@@ -3,7 +3,7 @@ name: Build Electron App
 on:
   push:
     branches:
-      - main   # 或你默认分支名额
+      - main   # 或你默认分支名
 
 jobs:
   build:
