@@ -4,6 +4,9 @@
   "version": "4.1.10",
   "author": "tidalab",
   "license": "CC0-1.0",
+  "scripts": {
+    "dist": "electron-builder"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "js-yaml": "^3.14.0",
